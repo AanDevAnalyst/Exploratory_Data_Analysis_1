@@ -1,4 +1,4 @@
-Task 2 📊: Exploratory Data Analysis (EDA) 🔍
+**Task 2 📊: Exploratory Data Analysis (EDA) 🔍**
 Description:
 This project focuses on performing Exploratory Data Analysis (EDA) on the Books Data Report in CSV format.
 The goal is to uncover meaningful trends, detect patterns, and generate descriptive statistics to better understand the dataset and support further data-driven decision-making.
